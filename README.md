@@ -1,1 +1,1 @@
-# program
+A program by @yaroslavjavascript
